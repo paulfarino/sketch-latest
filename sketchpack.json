@@ -1,0 +1,6 @@
+{
+    "name": "Sketch Latest",
+    "description": "Checks your Github repo to make sure you are using the latest sketch file",
+    "tags": ["sketch", "github"],
+    "version": "0.1"
+}
